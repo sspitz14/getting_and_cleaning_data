@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README.md
 ========================================================
 ##### Class: Getting and Cleaning Data, Coursera, April 2014
@@ -150,3 +151,9 @@ These are the files that were used to assemble the initial data which was proces
   * mean summary headings contain the suffix ".mean"
   * standard deviation summary headings contain the suffix, ".sd" 
   * this is the final data set containing 180 data rows by 134 columns
+=======
+getting_and_cleaning_data
+=========================
+
+peer_assessment_submission
+>>>>>>> fd1e385c77196e36fc57450fbd9b84de5def7935
